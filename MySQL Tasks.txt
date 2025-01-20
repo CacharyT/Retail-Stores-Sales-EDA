@@ -1,0 +1,7 @@
+To Do:
+- Remove all unnecessary columns by making a new table (DONE)
+- Remove all NULLS or Missing VALUES (DONE)
+- Determine all data types per column (DONE)
+- Find all unique customer IDs (DONE)
+- Find average price per unit based on category and item (DONE)
+- Find average quantity based on category and item (DONE)

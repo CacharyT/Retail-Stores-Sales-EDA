@@ -1,0 +1,15 @@
+To Do:
+- Data Cleaning
+1. Format standardization (DONE)
+2. Additional spaces (DONE)
+3. Duplicates data (DONE)
+4. Changing Column Names (DONE)
+5. Missing values (DONE IN SQL)
+6. Deleting any values or columns (DONE)
+- Pivot Tables
+- Calculated Fields
+- Formulas (IFs, Date to text, Max/Min, SUM, Days)
+- Charts
+- Conditional Formatting (iconsets or colo scales)
+- XLookup
+- Dashboard (w/ slicers) 

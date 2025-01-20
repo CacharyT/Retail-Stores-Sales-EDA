@@ -4,10 +4,6 @@
 
 An exploratory data analysis project meant to clean and analyze performance of various retail stores.  
 
-## Authors
-
-Cachary Tolentino
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
