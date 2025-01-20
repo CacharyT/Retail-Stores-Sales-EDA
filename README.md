@@ -1,5 +1,7 @@
 # Retail-Stores-Sales-EDA
 
+![Website Image](images/Tables.png)
+
 ## Description
 
 An exploratory data analysis project meant to clean and analyze performance of various retail stores.  
